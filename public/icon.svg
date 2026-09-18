@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="112" fill="#0D9488"/>
+  <!-- Shopping basket / grocery notebook symbol -->
+  <path d="M140 200h232l-24 180H164L140 200z" fill="#F0FDFA" fill-opacity="0.95" stroke="#FFFFFF" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M190 200l-46-70a16 16 0 0 1 26-18l52 88" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M322 200l46-70a16 16 0 0 0-26-18l-52 88" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="200" y2="330" stroke="#0D9488" stroke-width="16" stroke-linecap="round"/>
+  <line x1="256" y1="250" x2="256" y2="330" stroke="#0D9488" stroke-width="16" stroke-linecap="round"/>
+  <line x1="312" y1="250" x2="312" y2="330" stroke="#0D9488" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="370" cy="150" r="28" fill="#F59E0B"/>
+  <path d="M360 150l8 8 16-16" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

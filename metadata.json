@@ -1,0 +1,6 @@
+{
+  "name": "สมุดรับของและเตือนสต็อก",
+  "description": "แอปสมุดรับของเข้า ตั้งราคาขาย และเตือนของหมด สำหรับร้านของชำ ใช้งานบนมือถือออฟไลน์ 100%",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
